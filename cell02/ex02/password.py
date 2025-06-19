@@ -1,6 +1,8 @@
 password = "Python is awesome"
 prompt = input()
 if prompt == password:
-    print ("ACCESS GREANTED")
+ print("ACCESS GRANTED")
 else :
-    print ("ACCESS DENITED")
+ print("ACCESS DENIED")
+ 
+
